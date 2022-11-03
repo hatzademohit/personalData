@@ -1,0 +1,53 @@
+Important URLs
+===============================
+1) React Dashboard
+URL=>   https://material-kit-pro-react.devias.io/dashboard/customers
+
+2) React Charts with materil UI
+URL=>	https://devexpress.github.io/devextreme-reactive/react/chart/demos/overview/multiple-axes/
+
+3) React Router
+URL=>	https://www.freecodecamp.org/news/how-to-use-react-router-version-6/
+
+4) React Charts example CodeSandbox
+URL=>   https://codesandbox.io/examples/package/react-chartjs-2
+
+5) Google map with react js
+URL=>	https://www.npmjs.com/package/google-map-react
+
+6) Used calendar in react JS
+URL=>	https://www.npmjs.com/package/@mui/x-date-pickers
+
+7) Material UI tables
+URL=>	https://devexpress.github.io/devextreme-reactive/react/grid/docs/guides/summary-row/
+
+
+
+
+
+
+
+Important Notes
+==================================================
+
+1) React is a JavaScript library.
+2) The main focus is bulding UI as fast as passible
+3) So this is used to single page application
+4) Means complete website in single page
+
+	why lean react
+1) Maintained by facebook so it will long term player in the market
+2) Hight demand due to high speed
+3) Large community for your support
+4) Mobile app development with react native
+
+	History and version
+1) Maintained by facebook
+2) First relese on 29 May 2013
+3) Tha currunt version is 18.2.0
+4) Appp with react native
+	I) NetFix,
+	II) Whassapp Web,
+	III) Instagram
+	IV) Airbnd, etc
+
